@@ -1,6 +1,6 @@
-# For ; Dr.web Suliman Matrex m5i_ Mexwa511 Firasc0der MrJoker1337 
+# For ; Dr.web Suliman Matrex Mexwa511 Firasc0der MrJoker1337 Badar #
 
-# Team ; alqwat > silver ~ Almrshdi511 ~ mastaQs
+# Almrshdi511 ~ Mc l0rd
 
 # c0ded : By 0x3heX~!5o6
 
@@ -16,9 +16,10 @@ except:
        > install requests Bro ^.^
 		''')
 print('''
-
- 
- [+] >>>  c0Ded : By 0x3hEX~506
+=============================================================
+                         \./  n00b \./
+                  [+]   c0Ded : By 0x3hEX~506
+    =============\./[ Twitter : @0x3hash ]\./===============
 
 	''')
 def ref (url):
